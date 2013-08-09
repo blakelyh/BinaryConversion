@@ -1,0 +1,9 @@
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Debug\DrgDrpFileCnvrtBinary.Form1.resources
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Debug\DrgDrpFileCnvrtBinary.Properties.Resources.resources
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\bin\Debug\DrgDrpFileCnvrtBinary.exe
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\bin\Debug\DrgDrpFileCnvrtBinary.pdb
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Debug\DrgDrpFileCnvrtBinary.exe
+c:\users\johndoe\documents\visual studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Debug\DrgDrpFileCnvrtBinary.pdb

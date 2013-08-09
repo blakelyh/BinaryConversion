@@ -1,0 +1,13 @@
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\bin\Release\DrgDrpFileCnvrtBinary.exe.manifest
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\bin\Release\DrgDrpFileCnvrtBinary.application
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\bin\Release\DrgDrpFileCnvrtBinary.exe
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\bin\Release\DrgDrpFileCnvrtBinary.pdb
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\DrgDrpFileCnvrtBinary.Form1.resources
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\DrgDrpFileCnvrtBinary.Properties.Resources.resources
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\DrgDrpFileCnvrtBinary.exe.manifest
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\DrgDrpFileCnvrtBinary.application
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\DrgDrpFileCnvrtBinary.exe
+C:\Users\JohnDoe\Documents\Visual Studio 2010\Projects\DrgDrpFileCnvrtBinary\DrgDrpFileCnvrtBinary\obj\x86\Release\DrgDrpFileCnvrtBinary.pdb
